@@ -1,1 +1,28 @@
-theme: midnight
+title: itsBarrex
+description: A collection of Streamer.bot extensions
+theme: just-the-docs
+
+url: https://itsbarrex.github.io/
+
+color_scheme: barrex
+
+footer_content: "Streamer.bot extensions by itsBarrex"
+
+enable_copy_code_button: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: Info
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
